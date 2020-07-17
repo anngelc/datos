@@ -1,4 +1,4 @@
-country,region,Average_life_expectancy,average_wellbeing_0_10,happy _life_years,footprint_(gha/capita),inequality _of_outcomes,inequality-adjusted _life _expectancy,inequality-adjusted _wellbeing,happy _planet _index,GDP/capita_($PPP),population,GINI_index
+country,region,average_life_expectancy,average_wellbeing_0_10,happy_life_years,footprint_gha_capita,inequality_of_outcomes,inequality-adjusted_life_expectancy,inequality-adjusted _wellbeing,happy_planet_index,GDP_capita_PPP,population,GINI_index
 Afghanistan,Middle East and North Africa,59.668,3.8,12.39602381,0.79,0.426557441,38.34881762,3.390494318,20.22534977,690.842629,29726803,Data unavailable
 Albania,Post-communist,77.347,5.5,34.41473601,2.21,0.165133717,69.67115928,5.0976504,36.76687444,4247.485437,2900489,28.96
 Algeria,Middle East and North Africa,74.313,5.6,30.46946131,2.12,0.244861748,60.47454459,5.196449186,33.30054279,5583.61616,37439427,Data unavailable
